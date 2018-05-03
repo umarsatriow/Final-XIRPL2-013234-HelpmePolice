@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelpMePolice.iml" filepath="$PROJECT_DIR$/HelpMePolice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final-XIRPL2-013234-HelpmePolice.iml" filepath="$PROJECT_DIR$/Final-XIRPL2-013234-HelpmePolice.iml" />
+      <module fileurl="file://F:\PPB\Final-XIRPL2-013234-HelpmePolice\HelpMePolice.iml" filepath="F:\PPB\Final-XIRPL2-013234-HelpmePolice\HelpMePolice.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\PPB\Final-XIRPL2-013234-HelpmePolice\app\app.iml" filepath="F:\PPB\Final-XIRPL2-013234-HelpmePolice\app\app.iml" />
     </modules>
   </component>
 </project>
